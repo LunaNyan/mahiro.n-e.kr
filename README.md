@@ -1,1 +1,1 @@
-# [klee.n-e.kr](https://klee.n-e.kr)
+# 오끝 2기 존버 사이트 임시 레포
